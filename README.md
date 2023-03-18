@@ -23,7 +23,9 @@ Hello my name is Isaque Renato Monteiro dos Santos, i am a junior analyst and de
 [![Linkedin Badge](https://img.shields.io/badge/-isakrm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaque-monteiro-523294200)](https://www.linkedin.com/in/isaque-monteiro-523294200)
 
 Aqui estão algumas das técnologias com as quais estou familiarizado:
+
 Here are some tools i'm used to:
+
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
